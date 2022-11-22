@@ -1,0 +1,1 @@
+writer = SummaryWriter(f'runs/MNIST/tryingout_tensorboard')
